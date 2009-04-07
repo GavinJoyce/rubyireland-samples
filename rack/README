@@ -1,0 +1,13 @@
+
+
+About Rack:
+----------
+
+http://rack.rubyforge.org/
+
+A simple specification which defines an interface between webservers and ruby frameworks.
+
+Install:
+-------
+
+gem install rack
